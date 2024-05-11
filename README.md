@@ -16,13 +16,16 @@ Connect with me in linkedin:
 ### Talking about Personal Stuff:
 
 - 👨‍🎓 I'm a **Software Developer**
-- 🔭 I’m currently working on [Tasty Finder](https://tasty-finder.vercel.app/) platform
-- 🌱 I'm currently learning:
+- 🔭 I’m currently working on [Tasty Finder](https://tasty-finder.vercel.app/)
+  - Find Restaurant locations based on a travel youtube video!
+- 🌱 : Always learning on
   - Data Structures and Algorithms on [LeetCode]([https://leetcode.com/aswin26barath/](https://leetcode.com/u/patricklouisw/))
   - Tools and technologies from <a href="#"><img alt="React" src="https://img.shields.io/badge/React-20232a.svg?logo=react&logoColor=%2361DAFB"></a> ecosystem
+  - Cloud computing
+  - Modern Design patterns and architecture
+  - AND many more!
 - 📬 How to reach me: [patricklouisw@gmail.com](mailto:patricklouisw@gmail.com)
-- 📝 [Resume](https://drive.google.com/file/d/1dQTjALmaANEK_XFlzn49w50SZsELri40/view?usp=sharing).
-
+- 📝 Check my Resume: [Resume](https://drive.google.com/file/d/1dQTjALmaANEK_XFlzn49w50SZsELri40/view?usp=sharing).
 ---
 
 ## 🛠️ My Favourite tools
