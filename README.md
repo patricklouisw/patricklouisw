@@ -18,17 +18,11 @@ Connect with me in linkedin:
 - 👨‍🎓 I'm a **Software Developer**
 - 🔭 I’m currently working on [Tasty Finder](https://tasty-finder.vercel.app/) platform
 - 🌱 I'm currently learning:
-  - Data Structures and Algorithms on [LeetCode](https://leetcode.com/aswin26barath/)
+  - Data Structures and Algorithms on [LeetCode]([https://leetcode.com/aswin26barath/](https://leetcode.com/u/patricklouisw/))
   - Tools and technologies from <a href="#"><img alt="React" src="https://img.shields.io/badge/React-20232a.svg?logo=react&logoColor=%2361DAFB"></a> ecosystem
 - 📬 How to reach me: [patricklouisw@gmail.com](mailto:patricklouisw@gmail.com)
 - 📝 [Resume](https://drive.google.com/file/d/1dQTjALmaANEK_XFlzn49w50SZsELri40/view?usp=sharing).
-- 💪 This is where I write, code and solve problems:
 
-&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
-<a href="https://github.com/patricklouisw" target="_blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/github.svg" alt="AswinBarath" height="30" width="40" /></a>
-&nbsp;
-<a href="https://leetcode.com/u/patricklouisw/" target="_blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/leet-code.svg" alt="aswin26barath" height="30" width="40" /></a>
-&nbsp;
 ---
 
 ## 🛠️ My Favourite tools
