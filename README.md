@@ -25,7 +25,7 @@ Connect with me in linkedin:
   - Modern Design patterns and architecture
   - AND many more!
 - 📬 How to reach me: [patricklouisw@gmail.com](mailto:patricklouisw@gmail.com)
-- 📝 Check my Resume: [Resume](https://drive.google.com/file/d/1dQTjALmaANEK_XFlzn49w50SZsELri40/view?usp=sharing).
+- 📝 Check my Resume: [Resume](https://drive.google.com/file/d/1dQTjALmaANEK_XFlzn49w50SZsELri40/view?usp=drive_link).
 ---
 
 ## 🛠️ My Favourite tools
